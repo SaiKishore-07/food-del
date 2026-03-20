@@ -92,12 +92,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
----
-
 ## 👨‍💻 Author
 
 Kishore S
